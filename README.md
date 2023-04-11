@@ -1,4 +1,4 @@
-# RAS Tech Summer 2023
+# RAS Tech Summer
 
 W zeszłym roku żółte, gumowe kaczuszki towarzyszyły nam przez całe lato i przez całe RAS TECH Summer. Były bardzo pomocne. Dzielnie wspierały naszych stażystów podczas debugowania. Słuchały do czego służą poszczególne segmenty kodu, a w chwilach wielkiej chwały – rozwiązania problemu – były dumne jak nikt inny. Po zimowej przerwie wymagają wyjątkowej uwagi. Muszą przygotować się na powitanie i RAS TECH Summer 2023. Pomóż nam ujarzmić gumowe kaczuszki i zagwarantuj sobie dobre lato!
 
